@@ -9,8 +9,8 @@ import java.util.Properties;
 
 public class Main {
 
-	String userName = "utentedrupal";
-	String password = "passworddrupal";
+	String userName = "****";
+	String password = "****";
 	String dbms = "mysql";
 	String serverName = "localhost";
 	String portNumber = "3306";
